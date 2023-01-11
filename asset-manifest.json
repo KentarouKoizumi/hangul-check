@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hangul-check/static/css/main.073c9b0a.css",
-    "main.js": "/hangul-check/static/js/main.fde17ed7.js",
+    "main.js": "/hangul-check/static/js/main.0aa14097.js",
     "static/js/787.79c5bc11.chunk.js": "/hangul-check/static/js/787.79c5bc11.chunk.js",
     "index.html": "/hangul-check/index.html",
     "main.073c9b0a.css.map": "/hangul-check/static/css/main.073c9b0a.css.map",
-    "main.fde17ed7.js.map": "/hangul-check/static/js/main.fde17ed7.js.map",
+    "main.0aa14097.js.map": "/hangul-check/static/js/main.0aa14097.js.map",
     "787.79c5bc11.chunk.js.map": "/hangul-check/static/js/787.79c5bc11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fde17ed7.js"
+    "static/js/main.0aa14097.js"
   ]
 }
